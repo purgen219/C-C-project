@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MyCPU.dir/main.cpp.o CMakeFiles/MyCPU.dir/Erorr.cpp.o CMakeFiles/MyCPU.dir/Asm.cpp.o  -o MyCPU 

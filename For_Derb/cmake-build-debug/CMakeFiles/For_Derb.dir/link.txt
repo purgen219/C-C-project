@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/For_Derb.dir/main.cpp.o CMakeFiles/For_Derb.dir/Erorr.cpp.o  -o For_Derb 

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sergey/CLionProjects/MyCPU/Asm/Asm.cpp
+Asm.h
+/home/sergey/CLionProjects/MyCPU/Asm/Asm.h
+
+/home/sergey/CLionProjects/MyCPU/Asm/Asm.h
+vector
+-
+iostream
+-
+string
+-
+algorithm
+-
+cmath
+-
+Erorr.h
+/home/sergey/CLionProjects/MyCPU/Asm/Erorr.h
+Const.h
+/home/sergey/CLionProjects/MyCPU/Asm/Const.h
+
+/home/sergey/CLionProjects/MyCPU/Asm/Const.h
+
+/home/sergey/CLionProjects/MyCPU/Asm/Erorr.h
+iostream
+-
+string
+-
+
+/home/sergey/CLionProjects/MyCPU/Asm/main.cpp
+Asm.h
+/home/sergey/CLionProjects/MyCPU/Asm/Asm.h
+

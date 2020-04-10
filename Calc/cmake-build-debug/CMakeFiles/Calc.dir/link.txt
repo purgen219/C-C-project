@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Calc.dir/main.cpp.o CMakeFiles/Calc.dir/Calc.cpp.o  -o Calc 

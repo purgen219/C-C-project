@@ -1,0 +1,12 @@
+Digraph G{
+	"Little"->"Ron"
+;
+	"Little"->"play in FCB"
+"play in FCB"->"Messi"
+;
+	"play in FCB"->"Russia"
+"Russia"->"Ribery"
+;
+	"Russia"->"Arshavin"
+;
+	}
